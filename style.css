@@ -3,3 +3,7 @@ body{
   background-color: "green";
   font-size :800px;
 }
+
+header{
+  background-image: url("blois-fond.jfif");
+}
